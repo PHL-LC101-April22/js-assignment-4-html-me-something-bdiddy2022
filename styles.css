@@ -5,6 +5,12 @@ body{
     margin:20%;
     background-color: bisque;
 }
+#testP {
+    font-size:15px;
+}
+.funParagraph{
+    color:green;
+}
 
 .mainArticle {
     margin:auto;
@@ -28,6 +34,11 @@ body{
 h1 {
     font-size: 36px;
   }
+#mainHeading{
+    
+    font-style: italic;
+    color: red;
+}
 h2 {
     font-size: 20px;
 }
