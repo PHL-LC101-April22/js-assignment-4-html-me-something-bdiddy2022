@@ -1,0 +1,108 @@
+/* Write your CSS here! */
+
+
+body{
+    margin:20%;
+    background-color: bisque;
+}
+.mainArticle {
+    margin:auto;
+    display:block;
+    text-align:left;
+    }
+
+.mainText{
+    font-size:15px;
+}
+    
+.allHead {
+    text-align: center;
+  }
+.captioned {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h1 {
+    font-size: 36px;
+  }
+h2 {
+    font-size: 20px;
+}
+.smallHead{
+    text-align:center;
+    font-size:15px;
+}
+#southie {
+    scale: 40%;
+    float:center;
+    }
+
+#gibsonStreet {
+    width:400px;
+    height:auto;
+    float:center;
+}
+#maritime {
+    scale:40%;
+    float: left;
+}
+    #superFuntimeCollege{
+        width: 450px;
+        height:auto;
+    }
+
+#harborFerry {
+    scale:40%;
+    float:right;
+}
+    #harborView {
+        width:300px;
+        height:auto;
+    }
+
+#stepBrothers{
+    float:left;
+    scale:40%;
+}
+    #stepInterview {
+        width: 350px;
+        height: auto; 
+     }
+
+#lovebirds {
+    float:right;
+    scale:40%;
+
+}
+    #meAndElsieDownByTheSchoolyard{
+        width: 300px;
+        height: auto;
+    }
+
+
+#philadelphia {
+        scale:40%;
+        float:left;
+}
+#grittyDump {
+    width:400px;
+    height:auto;
+}
+
+footer{
+    text-align:center;
+    background-color: bisque;
+}
+.footerText{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+
+header{
+    float: center;
+    background-color:bisque;
+}
+.headerPhoto{
+    width:900px;
+}
